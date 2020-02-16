@@ -1,8 +1,8 @@
-Origin: AustinK0700Test
-Label: AustinK0700Test
+Origin: AustinK0700
+Label: AustinK0700
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: AustinK0700Test
+Description: AustinK0700
